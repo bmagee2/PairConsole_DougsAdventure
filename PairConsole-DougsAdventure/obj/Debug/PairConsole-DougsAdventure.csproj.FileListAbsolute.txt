@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\CSharpFundamentals\PairConsole-DougsAdventure\bin\Debug\PairConsole-DougsAdventure.exe.config
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\CSharpFundamentals\PairConsole-DougsAdventure\bin\Debug\PairConsole-DougsAdventure.exe
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\CSharpFundamentals\PairConsole-DougsAdventure\bin\Debug\PairConsole-DougsAdventure.pdb
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\CSharpFundamentals\PairConsole-DougsAdventure\obj\Debug\PairConsole-DougsAdventure.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\CSharpFundamentals\PairConsole-DougsAdventure\obj\Debug\PairConsole-DougsAdventure.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\CSharpFundamentals\PairConsole-DougsAdventure\obj\Debug\PairConsole-DougsAdventure.exe
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\CSharpFundamentals\PairConsole-DougsAdventure\obj\Debug\PairConsole-DougsAdventure.pdb
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\projects\PairConsole-DougsAdventure\PairConsole-DougsAdventure\bin\Debug\PairConsole-DougsAdventure.exe.config
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\projects\PairConsole-DougsAdventure\PairConsole-DougsAdventure\bin\Debug\PairConsole-DougsAdventure.exe
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\projects\PairConsole-DougsAdventure\PairConsole-DougsAdventure\bin\Debug\PairConsole-DougsAdventure.pdb
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\projects\PairConsole-DougsAdventure\PairConsole-DougsAdventure\obj\Debug\PairConsole-DougsAdventure.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\projects\PairConsole-DougsAdventure\PairConsole-DougsAdventure\obj\Debug\PairConsole-DougsAdventure.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\projects\PairConsole-DougsAdventure\PairConsole-DougsAdventure\obj\Debug\PairConsole-DougsAdventure.exe
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\projects\PairConsole-DougsAdventure\PairConsole-DougsAdventure\obj\Debug\PairConsole-DougsAdventure.pdb
